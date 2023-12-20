@@ -2,7 +2,7 @@
 
 - I am ABDYLLA
  - I am  Computer Engineering student at  <b>Gazi University</b>.
-- I  try to improve myself at programming. I try my best
+- I  try to improve myself at programming. 
  
 <p align='center'>
   <a href="https://www.linkedin.com/in/AbdyllaDurdyyev"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
